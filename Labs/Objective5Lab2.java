@@ -12,9 +12,10 @@ public class Objective5Lab2 {
     }
       if(string2.equals(string3)) {
         System.out.println(string2 + "is not equivalent to" + string3);
-      }
+    }
       else {
         System.out.println(string1 + " is equivalent to " + string3);
       }
   }
+  
 }
